@@ -1,0 +1,5 @@
+MONGODB_URI="mongodb+srv://weooo:konslee123@weather.jwhfawt.mongodb.net/"
+OPENAPI_KEY='1b4240fce6cc4732febfa16c6b0f2d1039e88d1149687b4cc66a76dd5f70dadc'
+
+NEXTAUTH_SECRET=your-nextauth-secret-key
+NEXTAUTH_URL=http://localhost:3000
