@@ -56,7 +56,7 @@ export function Navigation() {
           {/* 로고 */}
           <Link href="/" className="flex items-center space-x-2">
             <Cloud className="h-8 w-8 text-white" />
-            <span className="text-xl font-bold text-white">유누 날씨</span>
+            <span className="text-xl font-bold text-white">WWT</span>
           </Link>
 
           {/* 데스크톱 메뉴 */}
